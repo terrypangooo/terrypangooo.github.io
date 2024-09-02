@@ -5,7 +5,7 @@
 - Jul 2020–Now. Lecturer, School of Computer Science and Network Engineering, Guangzhou University, Guangzhou, China.
 - Jul 2017–Jul 2020. Senior Researcher, Tencent Youtu Lab (directed by Prof. [Jiajia Ya](https://jiaya.me/home)), Shenzhen, China.
 - Sep 2011–Jul 2017. Ph.D. in Computer Application Technology (supervised by Prof. [Zhiyong Feng](https://cic.tju.edu.cn/faculty/zyfeng/index.html)), Tianjin University, Tianjin, China.
-- Sep 2007–Jun 2011. B.S. in Computer Science, Tianjin University of Technology, Tianjin, China.
+- Sep 2007–Jun 2011. B.S. in Computer Science, Tiangong University, Tianjin, China.
 
 ## PUBLICATIONS
 
