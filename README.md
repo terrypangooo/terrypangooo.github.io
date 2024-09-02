@@ -1,5 +1,5 @@
 ## BIOGRAPHY
-**[Weilong Peng](https://github.com/tery)** was graduated from Tianjin University in July 2017. After graduation, I worked as a Senior Researcher at Tencent Youtu Lab. In July 2020, I joined the School of Computer Science and Network Engineering at Guangzhou University as a Master's advisor. My work focuses on teaching and research in computer vision/graphics and AI security. I developed Tencent’s first enterprise-level video human pose tracking solution, which has been applied to core products such as Tencent Cloud and WeChat. I have published over ten papers in top international conferences and journals, including CVPR, ICCV, AAAI, ICDM, Pattern Recognition, etc. I also serve as a reviewer for international conferences and journals such as ICCV, ACM MM, Neurocomputing, etc. I lead two provincial projects in Guangdong, two municipal research projects, and participate in national key R&D projects and several National Natural Science Foundation projects.
+**[Weilong Peng](https://github.com/tery)** was graduated from Tianjin University in July 2017. After graduation, I worked as a Senior Researcher at Tencent Youtu Lab. In July 2020, I joined the School of Computer Science and Network Engineering at Guangzhou University as a Master's advisor. My work focuses on teaching and research in computer vision/graphics and AI security. I developed Tencent’s first enterprise-level video human pose tracking solution, which has been applied to core products such as Tencent Cloud and WeChat. I have published over ten papers in top international conferences and journals, including CVPR, ICCV, AAAI, ICDM, Pattern Recognition, etc. I also serve as a reviewer for international conferences and journals such as ICCV, ACM MM, Neurocomputing, etc. 
 
 ## EXPERIENCE
 - Jul 2020–Now. Lecturer, School of Computer Science and Network Engineering, Guangzhou University, Guangzhou, China.
@@ -71,32 +71,6 @@
 </ol>
 
 
-<!--
-## PATENTS
-- ***已申请***
-<ol>
-<li>谭伟强，范立生，<strong>汪洋涛</strong>. 一种用于电子通信的可折叠收纳型信号放大装置. 中国国家发明专利.</li>
-<li><strong>汪洋涛</strong>，范立生，夏隽娟，彭伟龙，谭伟强. 一种多标签图像分类方法、装置、设备及存储介质. 中国国家发明专利. 申请号：CN202111002998.5，申请日期：2021-08-30.</li>
-<li>夏隽娟，范立生，赵子超，<strong>汪洋涛</strong>，刘外喜. 一种联邦学习带宽分配方法、系统、计算机设备及介质. 中国国家发明专利. 申请号：CN202110842426.1，申请日期：2021-07-23.</li>
-<li>范立生，夏隽娟，何科，<strong>汪洋涛</strong>，刘外喜. 一种深度学习辅助的快速MIMO信号搜索方法. 中国国家发明专利.</li>
-<li><strong>汪洋涛</strong>，范立生，彭伟龙，谭伟强. 一种基于类激活映射机制的多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202110625124.9，申请日期：2021-06-04.</li>
-<li>刘渝，<strong>汪洋涛</strong>，谢延昭，周可，夏天，冯树耀. 一种多标签图像的哈希码生成方法和系统. 中国国家发明专利. 申请号：CN202011226768.2，申请日期：2020-11-05.</li>
-<li><strong>汪洋涛</strong>，刘渝，李春花，牛中盈，王冲，周可. 一种基于节点表征的无监督深度哈希模型训练方法及图像检索方法. 中国国家发明专利. 申请号：CN202011100519.2，申请日期：2020-10-15</li>
-<li>刘渝，<strong>汪洋涛</strong>，谢延昭，李春花，王冲，牛中盈，周可. 一种基于跨模态的快速多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202011100518.8，申请日期：2020-10-15.</li>
-<li>刘渝，<strong>汪洋涛</strong>，周可，管飞宇，夏天. 二阶相似感知的图像哈希码提取模型建立方法及其应用. 中国国家发明专利. 申请号：CN202011059408.8，申请日期：2020-09-30.</li>
-<li>周可，刘渝，<strong>汪洋涛</strong>，管飞宇. 一种内容筛选存储方法及系统. 中国国家发明专利. 申请号：CN202010819959.3，申请日期：2020-08-14.</li>
-<li>周可，刘渝，杨玉娟，王桦，李春花，<strong>汪洋涛</strong>，刘毅斐. 一种基于相似性哈希的图像暗数据价值评估方法. 中国国家发明专利，申请号：CN201910557932.9，申请日期：2019-06-26.</li>
-<li>周可，刘渝，<strong>汪洋涛</strong>. 一种图像检索方法和系统. 中国国家发明专利，申请号：CN201810637971.5，申请日期：2018-06-20.</li>
-</ol>
-
-- ***已授权***
-<ol>
-<li>Ke ZHOU, Yu LIU, Yujuan YANG, Hua WANG, Chunhua LI, <strong>Yangtao WANG</strong>, Yifei LIU. Method for valuation of image dark data based on similarity hashing. US 11138479B2.  </li>
-<li>周可，刘毅斐，刘渝，<strong>汪洋涛</strong>，杨玉娟. 一种基于内容语义元数据的图像查询方法与系统. 中国国家发明专利，授权公布号：CN110413807B，授权公告日：2021-04-20.  </li>
-<li>周可，李春花，李晓翠，<strong>汪洋涛</strong>. 一种差分隐私空间分解方法与系统. 中国国家发明专利，授权公布号：CN109241774B，授权公告日：2020-11-10.</li>
-<li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，授权公布号：CN107493268B，授权公告日：2019-05-31.</li>
-</ol>
--->
 
 ## TEACHING
 - Artificial Intelligence Principles
@@ -106,13 +80,9 @@
 - Computer Graphics
 
 ## CONTACT ME
-<!--
-- **Address**: Room 608, Electronic Information Lab Building, Guangzhou University, 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou, China.
--->
 - **Tel**: +86-13802055022
 - **Email**: wlpeng@gzhu.edu.cn
-- **ORCID**: https://orcid.org/0000-0003-4605-9270
-- **Scholat**: https://www.scholat.com/ytaowang
+- **ORCID**: https://orcid.org/0000-0001-5820-889X
 - **招生**: 自我驱动力强，敢于挑战难题的计算机、自动化、电子信息、数学专业的同学；对3D计算机视觉/点云处理/人工智能安全等方向感兴趣;热爱编程，熟练使用ChatGPT.有相关项目经验者优先.
 
 ***
