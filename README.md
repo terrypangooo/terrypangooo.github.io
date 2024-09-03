@@ -32,9 +32,9 @@
 
 <li>Keke Tang, Wenyu Zhao, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Xiaodong Cui, Peican Zhu, and Zhihong Tian. Reparameterization Head for Efficient Multi-Input Networks[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yanyan Li, <strong>Weilong Peng*(Corresponding author)</strong>, Keke Tang, Meie Fang. Spatio-Frequency Decoupled Weak-Supervision for Face Reconstruction[J]. Computational Intelligence and Neuroscience, 2022.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Zhaoyang Yu, Mujun Li & <strong>Weilong Peng*(Corresponding author)</strong>. Exploring Biomarkers of Premature Ovarian Insufficiency Based on Oxford Nanopore Transcriptional Profile and Machine Learning[J]. Scientific Reports, 2023 (Q1).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Zhaoyang Yu, Mujun Li & <strong>Weilong Peng*(Corresponding author)</strong>. Exploring Biomarkers of Premature Ovarian Insufficiency Based on Oxford Nanopore Transcriptional Profile and Machine Learning[J]. Scientific Reports, 2023.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Yanyan Li, <strong>Weilong Peng*(Corresponding author)</strong>, Keke Tang, Meie Fang. Spatio-Frequency Decoupled Weak-Supervision for Face Reconstruction[J]. Computational Intelligence and Neuroscience, 2022.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Keke Tang, Xujian Cai, <strong>Weilong Peng*(Corresponding author)</strong>, Daizong Liu, Peican Zhu, Pan Zhou, Zhihong Tian, and Wenping Wang. Matching Words for Out-of-distribution Detection[C]. IEEE International Conference on Data Mining (ICDM), 2023 (<font color="#FF0000">CCF B</font>, acceptance rate: 9.37%).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
