@@ -10,7 +10,7 @@
 ## PUBLICATIONS
 
 <ol> 
-<li>Zechu Zhang, <strong>Weilong Peng</strong>, Jinyu Wen, Keke Tang, Meie Fang, David Dagan Feng, Ping Li. Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes from CBCT Images[J]. IEEE Transactions on Multimedia (TMM), 2024 (<font color="#FF0000">CCF A</font>, 中科院一区, Accepted).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+<li>Zechu Zhang, <strong>Weilong Peng#(Joint first author)）</strong>, Jinyu Wen, Keke Tang, Meie Fang, David Dagan Feng, Ping Li. Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes from CBCT Images[J]. IEEE Transactions on Multimedia (TMM), 2024 (<font color="#FF0000">CCF A</font>, 中科院一区, Accepted).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
 <li><strong>Weilong Peng</strong>, Yi Luo, Keke Tang, Kongyang Chen, Yangtao Wang, Ping Li and Meie Fang. IE-aware Consistency Losses for Detailed 3D Face Reconstruction from Multiple Images in the Wild[C]. ICME 2024 (<font color="#FF0000">CCF B</font>, oral, <font color="#FF0000">best paper candidate</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
