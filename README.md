@@ -40,6 +40,9 @@
 
 <li>Keke Tang, Xujian Cai, <strong>Weilong Peng*(Corresponding author)</strong>, Daizong Liu, Peican Zhu, Pan Zhou, Zhihong Tian, and Wenping Wang. Matching Words for Out-of-distribution Detection[C]. IEEE International Conference on Data Mining (ICDM), 2023 (<font color="#FF0000">CCF B</font>, acceptance rate: 9.37%).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
+<li>Xu He, Keke Tang, Yawen Shi, Yin Li, <strong>Weilong Peng</strong>, Peican Zhu. Are Deep Point Cloud Classifiers Suffer From Out-of-distribution Overconfidence Issue?[C]. IEEE International Conference on Systems,
+Man, and Cybernetics (SMC), 2023 (CCF C).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+
 <li>Keke Tang, Jianpeng Wu, <strong>Weilong Peng*(Corresponding author)</strong>, Yawen Shi, Peng Song, Zhaoquan Gu, Zhihong Tian, and Wenping Wang. Deep Manifold Attack on Point Clouds via Parameter Plane Stretching[C]. AAAI Conference on Artificial Intelligence (AAAI), 2023 (<font color="#FF0000">CCF A</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li><strong>Weilong Peng</strong>, Cong Li, Keke Tang, Xianyong Liu, and Meie Fang*. HOME: 3D Human–Object Mesh Topology-Enhanced Interaction Recognition in Images[J]. Mathematics, 2022 (Q1).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
