@@ -10,6 +10,8 @@
 ## PUBLICATIONS
 
 <ol> 
+<li>Zechu Zhang, <strong>Weilong Peng</strong>, Jinyu Wen, Keke Tang, Meie Fang, David Dagan Feng, Ping Li. Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes from CBCT Images[J]. IEEE Transactions on Multimedia (TMM), 2024 (<font color="#FF0000">CCF A</font>, 中科院一区, Accepted).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+  
 <li><strong>Weilong Peng</strong>, Yi Luo, Keke Tang, Kongyang Chen, Yangtao Wang, Ping Li and Meie Fang. IE-aware Consistency Losses for Detailed 3D Face Reconstruction from Multiple Images in the Wild[C]. ICME 2024 (<font color="#FF0000">CCF B</font>, oral, <font color="#FF0000">best paper candidate</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
 <li><strong>Weilong Peng</strong>, Zhiyong Feng, Chao Xu, Yong Su. Parametric t-spline face morphable model for detailed fitting in shape subspace[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 (<font color="red">CCF A</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
