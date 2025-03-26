@@ -10,6 +10,9 @@
 ## PUBLICATIONS
 
 <ol> 
+
+<li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. ICME 2025. (<font color="#FF0000">CCF B</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
+  
 <li><strong>Weilong Peng</strong>, Keke Tang, Weixuan Tang, Yong Su, Meie Fang, Ping Li. MeshPAD: Payload-aware Mesh Distortion for 3D Steganography Based on Geometric Deep Learning[J]. Expert Systems with Applications, 2025.(<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
 <li>Zechu Zhang, <strong>Weilong Peng#(Joint first author)）</strong>, Jinyu Wen, Keke Tang, Meie Fang, David Dagan Feng, Ping Li. Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes from CBCT Images[J]. IEEE Transactions on Multimedia (TMM), 2025 (<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
