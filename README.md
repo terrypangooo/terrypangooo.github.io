@@ -43,6 +43,8 @@
 
 <li>Keke Tang, Wenyu Zhao, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Xiaodong Cui, Peican Zhu, and Zhihong Tian. Reparameterization Head for Efficient Multi-Input Networks[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
+<li>Yanyan Li, Zhihao Yang, Weilong Peng, Meie Fang.  A Single-image Human Body Reconstruction Method Combining Normal Recovery and Frequency Domain Completion[J]. Metaverse, 2023.</li>
+
 <li>Zhaoyang Yu, Mujun Li & <strong>Weilong Peng*(Corresponding author)</strong>. Exploring Biomarkers of Premature Ovarian Insufficiency Based on Oxford Nanopore Transcriptional Profile and Machine Learning[J]. Scientific Reports, 2023 (Q1).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Yanyan Li, <strong>Weilong Peng*(Corresponding author)</strong>, Keke Tang, Meie Fang. Spatio-Frequency Decoupled Weak-Supervision for Face Reconstruction[J]. Computational Intelligence and Neuroscience, 2022.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
@@ -56,7 +58,7 @@ Man, and Cybernetics (SMC), 2023 (CCF C).<a href="#"><strong><font color="#267cb
 
 <li><strong>Weilong Peng</strong>, Cong Li, Keke Tang, Xianyong Liu, and Meie Fang*. HOME: 3D Human–Object Mesh Topology-Enhanced Interaction Recognition in Images[J]. Mathematics, 2022 (Q1).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Meng Xing, Zhiyong Feng, Yong Su, <strong>Weilong Peng*(Corresponding author)</strong>, Jianhai Zhang. Ventral & Dorsal Stream Theory based Zero-Shot Action Recognition[J]. Pattern Recognition, 2021 (<font color="#FF0000">CCF B</font>, 中科院一区).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Meng Xing, Zhiyong Feng, Yong Su, <strong>Weilong Peng*(Corresponding author)</strong>, Jianhai Zhang. Ventral & Dorsal Stream Theory based Zero-Shot Action Recognition[J]. Pattern Recognition, 2021 (<font color="#FF0000">CCF B, 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Keke Tang, Yuhong Chen, <strong>Weilong Peng*(Corresponding author)</strong>, Yanling Zhang, Meie Fang, Zheng Wang & Peng Song. RepPVConv: Attentively Fusing Reparameterized Voxel Features for Efficient 3D Point Cloud Perception[J]. The Visual Computer, 2022 (CCF C, Q1).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
@@ -70,7 +72,7 @@ Man, and Cybernetics (SMC), 2023 (CCF C).<a href="#"><strong><font color="#267cb
 
 <li>Yong Su, <strong>Weilong Peng*(Corresponding author)</strong>, Meng Xing, and Zhiyong Feng. Spatio-temporal multi-factor model for individual identification from biological motion[J]. Ad Hoc Networks, 2021 (Q1).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yong Su, Zhiyong Feng, Jianhai Zhang, <strong>Weilong Peng</strong>, Meng Xing. Sequential Articulated Motion Reconstruction from a Monocular Image Sequence[J]. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2018 (中科院一区).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Yong Su, Zhiyong Feng, Jianhai Zhang, <strong>Weilong Peng</strong>, Meng Xing. Sequential Articulated Motion Reconstruction from a Monocular Image Sequence[J]. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2018 (<font color="#FF0000">中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li><strong>Weilong Peng</strong>, Chao Xu, Zhiyong Feng. 3D face modeling based on structure optimization and surface reconstruction with B-Spline[J]. Neurocomputing, 2016 (Q1, 中科院二区).</li>
 
