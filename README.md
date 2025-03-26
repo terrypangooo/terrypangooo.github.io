@@ -9,9 +9,10 @@
 
 ## PUBLICATIONS
 
-<ol> 
+<li>Keke Tang, Chao Hou, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Zhize Wu, Yongwei Nie, Wenping Wang, Zhihong Tian. Simplification Is All You Need against Out-of-Distribution Overconfidence[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+</li>
 
-<li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. ICME 2025. (<font color="#FF0000">CCF B</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. ICME 2025. (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
   
 <li><strong>Weilong Peng</strong>, Keke Tang, Weixuan Tang, Yong Su, Meie Fang, Ping Li. MeshPAD: Payload-aware Mesh Distortion for 3D Steganography Based on Geometric Deep Learning[J]. Expert Systems with Applications, 2025.(<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
@@ -29,7 +30,7 @@
 
 <li>Keke Tang, Lujie Huang, <strong>Weilong Peng*(Corresponding author)</strong>, Daizong Liu, Xiaofei Wang, Yang Ma, Ligang Liu, and Zhihong Tian. FLAT: Flux-aware Imperceptible Adversarial Attacks on 3D Point Clouds[C]. European Conference on Computer Vision (ECCV), 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Jinyu Wen, Asad Khan, Amei Chen, <strong>Weilong Peng</strong>, Meie Fang, C. L. Philip Chen, and Ping Li. High-Quality Fusion and Visualization for MR-PET Brain Tumor Images via Multi-Dimensional Features[J]. IEEE Transactions on Image Processing, 33, 3550–3563, 2024 (<font color="#FF0000">CCF A</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Jinyu Wen, Asad Khan, Amei Chen, <strong>Weilong Peng</strong>, Meie Fang, C. L. Philip Chen, and Ping Li. High-Quality Fusion and Visualization for MR-PET Brain Tumor Images via Multi-Dimensional Features[J]. IEEE Transactions on Image Processing, 33, 3550–3563, 2024 (<font color="#FF0000">CCF A, 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Keke Tang, Chao Hou, <strong>Weilong Peng*(Corresponding author)</strong>, Runnan Chen, Peican Zhu, Wenping Wang, and Zhihong Tian. CORES: Convolutional Response-based Score for Out-of-distribution Detection[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (<font color="#FF0000">CCF A</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
