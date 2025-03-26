@@ -9,6 +9,7 @@
 
 ## PUBLICATIONS
 
+<ol>
 <li>Keke Tang, Chao Hou, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Zhize Wu, Yongwei Nie, Wenping Wang, Zhihong Tian. Simplification Is All You Need against Out-of-Distribution Overconfidence[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. International Conference on Multimedia and Expo (ICME), 2025. (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
