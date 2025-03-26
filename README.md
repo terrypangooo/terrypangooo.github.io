@@ -26,6 +26,9 @@
 
 <li>Keke Tang, Zhensu Wang, <strong>Weilong Peng*(Corresponding author)</strong>, Lujie Huang, Le Wang, Peican Zhu, Wenping Wang, and Zhihong Tian. SymAttack: Symmetry-aware Imperceptible Adversarial Attacks on 3D Point Clouds[C]. ACM Multimedia (MM), 2024 (<font color="#FF0000">CCF A</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
+<li> <strong>Weilong Peng</strong>, Qingfeng Chen, Keke Tang, Zhihao Yang, Meng Xing, Meie Fang. MIT: Multi-cue Injected Transformer for Two-Stage HOI Detection[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2024. (CCF C). <a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+
+
 <li>Hanwei Yang, <strong>Weilong Peng*(Corresponding author)</strong>, Jiamin Yao, and Xijun Ye. Effective adversarial transfer learning for underwater image enhancement with hybrid losses[J]. Signal, Image and Video Processing, 2024.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Keke Tang, Lujie Huang, <strong>Weilong Peng*(Corresponding author)</strong>, Daizong Liu, Xiaofei Wang, Yang Ma, Ligang Liu, and Zhihong Tian. FLAT: Flux-aware Imperceptible Adversarial Attacks on 3D Point Clouds[C]. European Conference on Computer Vision (ECCV), 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
