@@ -10,19 +10,18 @@
 ## PUBLICATIONS
 
 <li>Keke Tang, Chao Hou, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Zhize Wu, Yongwei Nie, Wenping Wang, Zhihong Tian. Simplification Is All You Need against Out-of-Distribution Overconfidence[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
-</li>
 
-<li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. ICME 2025. (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. International Conference on Multimedia and Expo (ICME), 2025. (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
   
 <li><strong>Weilong Peng</strong>, Keke Tang, Weixuan Tang, Yong Su, Meie Fang, Ping Li. MeshPAD: Payload-aware Mesh Distortion for 3D Steganography Based on Geometric Deep Learning[J]. Expert Systems with Applications, 2025.(<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
 <li>Zechu Zhang, <strong>Weilong Peng#(Joint first author)）</strong>, Jinyu Wen, Keke Tang, Meie Fang, David Dagan Feng, Ping Li. Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes from CBCT Images[J]. IEEE Transactions on Multimedia (TMM), 2025 (<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
-<li><strong>Weilong Peng</strong>, Yi Luo, Keke Tang, Kongyang Chen, Yangtao Wang, Ping Li and Meie Fang. IE-aware Consistency Losses for Detailed 3D Face Reconstruction from Multiple Images in the Wild[C]. ICME 2024 (<font color="#FF0000">CCF B</font>, oral, <font color="#FF0000">best paper candidate</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+<li><strong>Weilong Peng</strong>, Yi Luo, Keke Tang, Kongyang Chen, Yangtao Wang, Ping Li and Meie Fang. IE-aware Consistency Losses for Detailed 3D Face Reconstruction from Multiple Images in the Wild[C]. International Conference on Multimedia and Expo (ICME), 2024 (<font color="#FF0000">CCF B</font>, oral, <font color="#FF0000">best paper candidate</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
 <li><strong>Weilong Peng</strong>, Zhiyong Feng, Chao Xu, Yong Su. Parametric t-spline face morphable model for detailed fitting in shape subspace[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 (<font color="red">CCF A</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yi Xie, Yangtao Wang, Yanzhao Xie, Xin Tan, Jingjing Li, Xiaocui Li, <strong>Weilong Peng</strong>, Maobin Tang and Meie Fang. Image-text Retrieval with Main Semantics Consistency[C]. CIKM 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+<li>Yi Xie, Yangtao Wang, Yanzhao Xie, Xin Tan, Jingjing Li, Xiaocui Li, <strong>Weilong Peng</strong>, Maobin Tang and Meie Fang. Image-text Retrieval with Main Semantics Consistency[C]. International Conference on Knowledge Management (CIKM), 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
 <li>Keke Tang, Zhensu Wang, <strong>Weilong Peng*(Corresponding author)</strong>, Lujie Huang, Le Wang, Peican Zhu, Wenping Wang, and Zhihong Tian. SymAttack: Symmetry-aware Imperceptible Adversarial Attacks on 3D Point Clouds[C]. ACM Multimedia (MM), 2024 (<font color="#FF0000">CCF A</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
