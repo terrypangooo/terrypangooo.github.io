@@ -43,7 +43,7 @@
 
 <li>Keke Tang, Wenyu Zhao, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Xiaodong Cui, Peican Zhu, and Zhihong Tian. Reparameterization Head for Efficient Multi-Input Networks[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yanyan Li, Zhihao Yang, Weilong Peng, Meie Fang.  A Single-image Human Body Reconstruction Method Combining Normal Recovery and Frequency Domain Completion[J]. Metaverse, 2023.</li>
+<li>Yanyan Li, Zhihao Yang, <strong>Weilong Peng*(Corresponding author)</strong>, Meie Fang.  A Single-image Human Body Reconstruction Method Combining Normal Recovery and Frequency Domain Completion[J]. Metaverse, 2023.</li>
 
 <li>Zhaoyang Yu, Mujun Li & <strong>Weilong Peng*(Corresponding author)</strong>. Exploring Biomarkers of Premature Ovarian Insufficiency Based on Oxford Nanopore Transcriptional Profile and Machine Learning[J]. Scientific Reports, 2023 (Q1).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
