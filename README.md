@@ -10,17 +10,23 @@
 ## PUBLICATIONS
 
 <ol>
+<li>Yangtao Wang, Xingwei Deng, Yanzhao Xie, <strong>Weilong Peng</strong>, Siyuan Chen, Xiaocui Li, Maobin Tang, Meie Fang. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
+  
+<li>Keke Tang, Tianyu Hao, Xiaofei Wang, <strong>Weilong Peng*(Corresponding author)</strong>, Denghui Zhang, Peican Zhu, Zhihong Tian. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
+
+<li><strong>Weilong Peng</strong>, Quanwei Deng, Mingjie Li, Yangtao Wang, Lisheng Fan, Yan Wang, Zhaoyang Yu, and Meie Fang. Adaptive Multi-Lens Phase Modulation for Scale-Aware Privacy-Preserving Human Pose Recognition.IET Software, 2025 (<font color="#FF0000">CCF B</font>). <a href="https://doi.org/10.1109/TCE.2025.3571778"><font color="#267cb9">pdf</font></a>.</li>
+  
 <li><strong>Weilong Peng</strong>, Qingfeng Chen, Keke Tang, Zhaoyang Yu, Yangtao Wang, Yanzhao Xie, Meie Fang. LactFormer: Language-aware Context Learning with Multi-cue Transformers for HOI Detection. IEEE Transaction on Consumer Electronics, 2025 (Q1). <a href="https://doi.org/10.1109/TCE.2025.3571778"><font color="#267cb9">pdf</font></a>.</li>
   
-<li>Keke Tang, Chao Hou, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Zhize Wu, Yongwei Nie, Wenping Wang, Zhihong Tian. Simplification Is All You Need against Out-of-Distribution Overconfidence[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Keke Tang, Chao Hou, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Zhize Wu, Yongwei Nie, Wenping Wang, Zhihong Tian. Simplification Is All You Need against Out-of-Distribution Overconfidence[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025 (<font color="#FF0000">CCF A</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li><strong>Weilong Peng</strong>, Keke Tang, Weixuan Tang, Yong Su, Meie Fang, Ping Li. MeshPAD: Payload-aware Mesh Distortion for 3D Steganography Based on Geometric Deep Learning[J]. Expert Systems with Applications, 2025.(<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
 <li>Zechu Zhang, <strong>Weilong Peng#(Joint first author)）</strong>, Jinyu Wen, Keke Tang, Meie Fang, David Dagan Feng, Ping Li. Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes from CBCT Images[J]. IEEE Transactions on Multimedia (TMM), 2025 (<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
-<li>Yong Su, Jiahang Li, Simin An, Hengpeng Xu, <strong>Weilong Peng</strong>. Dual-detector Re-optimization for Federated Weakly Supervised Video Anomaly Detection Via Adaptive Dynamic Recursive Mapping. IEEE Transactions on Industrial Informatics, 2025 (<font color="#FF0000">中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Yong Su, Jiahang Li, Simin An, Hengpeng Xu, <strong>Weilong Peng</strong>. Dual-detector Re-optimization for Federated Weakly Supervised Video Anomaly Detection Via Adaptive Dynamic Recursive Mapping. IEEE Transactions on Industrial Informatics, 2025 (<font color="#FF0000">中科院一区</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. International Conference on Multimedia and Expo (ICME), 2025. (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Huilong Lin, Yangtao Wang, Meie Fang, Yanzhao Xie, Da Chen, Xiaocui Li, <strong>Weilong Peng</strong>, Siyuan Chen, Maobin Tang, Ping Li. Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval[C]. International Conference on Multimedia and Expo (ICME), 2025. (<font color="#FF0000">CCF B</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
   
 <li><strong>Weilong Peng</strong>, Yi Luo, Keke Tang, Kongyang Chen, Yangtao Wang, Ping Li and Meie Fang. IE-aware Consistency Losses for Detailed 3D Face Reconstruction from Multiple Images in the Wild[C]. International Conference on Multimedia and Expo (ICME), 2024 (<font color="#FF0000">CCF B</font>, oral, <font color="#FF0000">best paper candidate</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
