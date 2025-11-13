@@ -10,11 +10,11 @@
 ## PUBLICATIONS
 
 <ol>
-<li>Yangtao Wang, Xingwei Deng, Yanzhao Xie, <strong>Weilong Peng</strong>, Siyuan Chen, Xiaocui Li, Maobin Tang, Meie Fang. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Yangtao Wang, Xingwei Deng, Yanzhao Xie, <strong>Weilong Peng</strong>, Siyuan Chen, Xiaocui Li, Maobin Tang, Meie Fang. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
   
-<li>Keke Tang, Tianyu Hao, Xiaofei Wang, <strong>Weilong Peng*(Corresponding author)</strong>, Denghui Zhang, Peican Zhu, Zhihong Tian. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Keke Tang, Tianyu Hao, Xiaofei Wang, <strong>Weilong Peng*(Corresponding author)</strong>, Denghui Zhang, Peican Zhu, Zhihong Tian. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li><strong>Weilong Peng</strong>, Quanwei Deng, Mingjie Li, Yangtao Wang, Lisheng Fan, Yan Wang, Zhaoyang Yu, and Meie Fang. Adaptive Multi-Lens Phase Modulation for Scale-Aware Privacy-Preserving Human Pose Recognition.IET Software, 2025 (<font color="#FF0000">CCF B</font>). <a href="https://doi.org/10.1109/TCE.2025.3571778"><font color="#267cb9">pdf</font></a>.</li>
+<li><strong>Weilong Peng</strong>, Quanwei Deng, Mingjie Li, Yangtao Wang, Lisheng Fan, Yan Wang, Zhaoyang Yu, and Meie Fang. Adaptive Multi-Lens Phase Modulation for Scale-Aware Privacy-Preserving Human Pose Recognition.IET Software, 2025 (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a>.</li>
   
 <li><strong>Weilong Peng</strong>, Qingfeng Chen, Keke Tang, Zhaoyang Yu, Yangtao Wang, Yanzhao Xie, Meie Fang. LactFormer: Language-aware Context Learning with Multi-cue Transformers for HOI Detection. IEEE Transaction on Consumer Electronics, 2025 (Q1). <a href="https://doi.org/10.1109/TCE.2025.3571778"><font color="#267cb9">pdf</font></a>.</li>
   
