@@ -10,7 +10,7 @@
 ## PUBLICATIONS
 
 <ol>
-<li>Yangtao Wang, Xingwei Deng, Yanzhao Xie, <strong>Weilong Peng</strong>, Siyuan Chen, Xiaocui Li, Maobin Tang, Meie Fang. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Yangtao Wang, Xingwei Deng, Yanzhao Xie, <strong>Weilong Peng</strong>, Siyuan Chen, Xiaocui Li, Maobin Tang, Meie Fang. End-to-End Knowledge Distillation for Unsupervised Domain Adaptation with Large Vision-language Models [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
   
 <li>Keke Tang, Tianyu Hao, Xiaofei Wang, <strong>Weilong Peng*(Corresponding author)</strong>, Denghui Zhang, Peican Zhu, Zhihong Tian. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
