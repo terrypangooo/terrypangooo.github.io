@@ -1,4 +1,48 @@
+---
+layout: home
+title: "你的姓名 - 学术主页"
+permalink: /
+author_profile: true
+classes: wide
+header:
+  overlay_image: /xxx.jpg
+  overlay_filter: 0.3
+  actions:
+    - label: "关于我"
+      url: "/about/"
+    - label: "查看发表"
+      url: "/publications/"
+  caption: "博士生 | 机器学习研究者"
+---
 
+<div style="text-align: center; margin: 3rem 0;">
+
+<!-- 头像 -->
+<img src="{{ site.author.avatar | absolute_url }}" 
+     alt="{{ site.author.name }}" 
+     style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 5px solid #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+
+<!-- 基本信息 -->
+<h1 style="margin-top: 1.5rem;">{{ site.author.name }}</h1>
+<p style="font-size: 1.3rem; color: #666; margin-bottom: 1rem;">
+  {{ site.author.role }} | {{ site.author.affiliation }}
+</p>
+
+<!-- 联系按钮 -->
+<div style="margin-top: 1.5rem;">
+  <a href="mailto:{{ site.author.email }}" class="btn btn--primary" style="margin: 5px;">
+    <i class="fas fa-envelope"></i> 邮箱
+  </a>
+  {% for link in site.author.links %}
+    <a href="{{ link.url }}" class="btn btn--primary" style="margin: 5px;">
+      <i class="{{ link.icon }}"></i> {{ link.label }}
+    </a>
+  {% endfor %}
+</div>
+
+</div>
+
+---
 ## BIOGRAPHY
 **Weilong Peng** is currently an Assistant Professor and Master's Supervisor at the School of Computer Science and Network Engineering, Guangzhou University. He graduated from Tianjin University in July 2017. Prior to joining academia in July 2020, he served as a Senior Researcher at Tencent Youtu Lab.
 
