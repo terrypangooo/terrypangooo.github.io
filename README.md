@@ -1,7 +1,7 @@
 <style>
 /* 这里可以用CSS */
-html { font-size: 20px; }
-body { font-size: 1.1em; line-height: 1.7; }
+html { font-size: 18px; }
+body { font-size: 1.1em; line-height: 1.25; }
 footer { font-size: 1em; }
 </style>
 
