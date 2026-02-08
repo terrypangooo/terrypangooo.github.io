@@ -52,7 +52,7 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
 
 <ol>
      
-<li> <strong/> Weilong Peng</strong>,  Xi Chen, Meng Xing, Keke Tang, Meie Fang. Text2Try3D: Text-Guided 3D Garment Generation on Parametric Human Models[C]. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026 (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li> <strong> Weilong Peng</strong>,  Xi Chen, Meng Xing, Keke Tang, Meie Fang. Text2Try3D: Text-Guided 3D Garment Generation on Parametric Human Models[C]. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026 (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li>Keke Tang, Ziyong Du, Xiaofei Wang, <strong>Weilong Peng</strong>, Peican Zhu, Zhihong Tian. Optimal Transport-Induced Samples Against ut-of-Distribution Overconfidence[C]. International Conference on Learning Representations (ICLR), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
