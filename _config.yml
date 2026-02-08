@@ -22,14 +22,22 @@ title: Weilong Peng ( 彭伟龙 ) - 学术主页
 
 email: "wlpeng@tju.edu.cn; wlpeng@gzhu.edu.cn" 
 
-google_scholar_id: "NAM2GUAAAAJ"
 
 minimal_mistakes_skin: "air"
 searc: true
 author:
   name: "Weilong Peng"
   avatar: "/peng.jpg"
+  bio: "助理教授/硕士生导师" 
+  affiliation: "广州大学"
   location: "广东|广州"
+  email: "wlpeng@tju.edu.cn
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=NAM2GUAAAAJ"
+
+
 
 # 首页头像
 home:
