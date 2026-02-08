@@ -20,15 +20,12 @@ include:
   
 title: Weilong Peng ( 彭伟龙 ) - 学术主页
 
-email: "wlpeng@tju.edu.cn; wlpeng@gzhu.edu.cn" 
-
-
 minimal_mistakes_skin: "air"
 searc: true
 author:
   name: "Weilong Peng"
   avatar: "/peng.jpg"
-  bio: "助理教授/硕士生导师" 
+  role: "助理教授/硕士生导师" 
   affiliation: "广州大学"
   location: "广东|广州"
   email: "wlpeng@tju.edu.cn"
