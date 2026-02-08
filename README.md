@@ -1,7 +1,7 @@
 ## BIOGRAPHY
-**Weilong Peng** Weilong Peng is currently an Assistant Professor and Master's Supervisor at the School of Computer Science and Network Engineering, Guangzhou University. He graduated from Tianjin University in July 2017. Prior to joining academia in July 2020, he served as a Senior Researcher at Tencent Youtu Lab.
+**Weilong Peng** is currently an Assistant Professor and Master's Supervisor at the School of Computer Science and Network Engineering, Guangzhou University. He graduated from Tianjin University in July 2017. Prior to joining academia in July 2020, he served as a Senior Researcher at Tencent Youtu Lab.
 
-His research interests primarily focus on Computer Vision/Graphics(计算机视觉/图形学), Adversarial 3D Perception (3D 对抗感知) . During his tenure at Tencent, he developed the company’s first enterprise-level video human pose tracking solution, which has been widely deployed in core products such as Tencent Cloud and WeChat. Prof. Peng has published over ten papers in top-tier international conferences and journals, including CVPR, ICCV, AAAI, ICDM, and Pattern Recognition. He also serves as a reviewer for prestigious conferences and journals such as ICCV, ACM MM, and Neurocomputing.
+His research interests primarily focus on Computer Vision/Graphics(计算机视觉/图形学), Adversarial 3D Perception (3D 对抗感知) . During his tenure at Tencent, he developed the company’s first enterprise-level video human pose tracking solution, which has been widely deployed in core products such as Tencent Cloud and WeChat. Prof. Peng has published over ten papers in top-tier international conferences and journals, including CVPR, ICCV, ECCV, ICLR, MM, AAAI, ICDM, Pattern Recognition, TMM, TCE, ESWA, etc. He also serves as a reviewer for prestigious conferences and journals such as ICCV, ACM MM, Neurocomputing, IJCV, TIP, etc. 
 
 ## EXPERIENCE
 - Jul 2020–Now. Assistant Professor, School of Computer Science and Network Engineering, Guangzhou University, Guangzhou, China.
@@ -111,8 +111,7 @@ Man, and Cybernetics (SMC), 2023 (CCF C).<a href="#"><strong><font color="#267cb
 - **Tel**: +86-13802055022
 - **Email**: wlpeng@gzhu.edu.cn
 - **ORCID**: https://orcid.org/0000-0001-5820-889X
-- **招生**: 自我驱动力强，敢于挑战难题的计算机、自动化、电子信息、数学专业的同学；对3D计算机视觉/点云处理/人工智能安全等方向感兴趣;热爱编程，熟练使用ChatGPT.有相关项目经验者优先.
-
+- **招生**: 自我驱动力强，敢于挑战难题的计算机、自动化、电子信息、数学专业的同学；对3D计算机视觉/点云处理/人工智能安全等方向感兴趣;热爱编程，有相关项目经验者优先。 
 ***
 <center>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
