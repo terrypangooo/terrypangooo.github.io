@@ -1,4 +1,12 @@
-theme: jekyll-theme-cayman
-title: Weilong Peng
+theme: academicpages/academicpages.github.io
+title: Weilong Peng ( 彭伟龙 ) - 学术主页
+
+email: "wlpeng@tju.edu.cn; wlpeng@gzhu.edu.cn" 
+
+google_scholar_id: "NAM2GUAAAAJ"
+
+minimal_mistakes_skin: "air"
+searc: true
+
 description: <img src="peng.jpg"  alt="photo" height="250" align="center"/>
 
