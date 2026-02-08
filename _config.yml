@@ -1,4 +1,20 @@
-theme: academicpages/academicpages.github.io
+theme: jekyll-theme-minimal
+
+remote_theme: academicpages/academicpages.github.io
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-scholar
+  
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
 title: Weilong Peng ( 彭伟龙 ) - 学术主页
 
 email: "wlpeng@tju.edu.cn; wlpeng@gzhu.edu.cn" 
