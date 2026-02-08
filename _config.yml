@@ -31,7 +31,7 @@ author:
 # 首页头像
 home:
   image:
-    path: "peng.jpg"
+    path: /peng.jpg"
     class: "circle"
     width: 200
     height: 200
