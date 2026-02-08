@@ -14,7 +14,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-
+include:
+  - README.md 
+  - peng.jpg
+  
 title: Weilong Peng ( 彭伟龙 ) - 学术主页
 
 email: "wlpeng@tju.edu.cn; wlpeng@gzhu.edu.cn" 
