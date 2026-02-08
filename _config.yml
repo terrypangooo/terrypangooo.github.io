@@ -1,21 +1,16 @@
-
 sass:
   style: compressed
   sass_dir: _sass
   load_paths:
     - _sass
 
-# 字体变量
 variables:
-  # 基础字体
   $base-font-size: 18px !default;  # 原来是16px
   $base-line-height: 1.6 !default;  # 原来是1.5
   
-  # 字体族
   $base-font-family: "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif !default;
   $heading-font-family: $base-font-family !default;
   
-  # 标题大小
   $h-size-1: 2.5em !default;  # h1
   $h-size-2: 2.0em !default;  # h2
   $h-size-3: 1.75em !default; # h3
@@ -23,20 +18,16 @@ variables:
   $h-size-5: 1.25em !default; # h5
   $h-size-6: 1.125em !default; # h6
   
-  # 小屏幕适配
   $h-size-1-small: 2.0em !default;
   $h-size-2-small: 1.75em !default;
   $h-size-3-small: 1.5em !default;
   
-  # 代码字体
   $monospace-font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace !default;
   $code-font-size: 0.9em !default;
   
-  # 导航栏
   $nav-font-size: 1.125em !default;
   $nav-link-padding: 0.5em 1em !default;
   
-  # 页脚
   $footer-font-size: 1em !default;
 
 theme: jekyll-theme-minimal
