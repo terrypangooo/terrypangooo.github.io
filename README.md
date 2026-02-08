@@ -1,8 +1,10 @@
 ## BIOGRAPHY
-**[Weilong Peng](https://github.com/tery)** was graduated from Tianjin University in July 2017. After graduation, I worked as a Senior Researcher at Tencent Youtu Lab. In July 2020, I joined the School of Computer Science and Network Engineering at Guangzhou University as a Master's advisor. My work focuses on teaching and research in computer vision/graphics and AI security. I developed Tencent’s first enterprise-level video human pose tracking solution, which has been applied to core products such as Tencent Cloud and WeChat. I have published over ten papers in top international conferences and journals, including CVPR, ICCV, AAAI, ICDM, Pattern Recognition, etc. I also serve as a reviewer for international conferences and journals such as ICCV, ACM MM, Neurocomputing, etc. 
+**Weilong Peng** Weilong Peng is currently an Assistant Professor and Master's Supervisor at the School of Computer Science and Network Engineering, Guangzhou University. He graduated from Tianjin University in July 2017. Prior to joining academia in July 2020, he served as a Senior Researcher at Tencent Youtu Lab.
+
+His research interests primarily focus on Computer Vision/Graphics(计算机视觉/图形学), Adversarial 3D Perception (3D 对抗感知) . During his tenure at Tencent, he developed the company’s first enterprise-level video human pose tracking solution, which has been widely deployed in core products such as Tencent Cloud and WeChat. Prof. Peng has published over ten papers in top-tier international conferences and journals, including CVPR, ICCV, AAAI, ICDM, and Pattern Recognition. He also serves as a reviewer for prestigious conferences and journals such as ICCV, ACM MM, and Neurocomputing.
 
 ## EXPERIENCE
-- Jul 2020–Now. Lecturer, School of Computer Science and Network Engineering, Guangzhou University, Guangzhou, China.
+- Jul 2020–Now. Assistant Professor, School of Computer Science and Network Engineering, Guangzhou University, Guangzhou, China.
 - Jul 2017–Jul 2020. Senior Researcher, Tencent Youtu Lab (directed by Prof. [Jiajia Ya](https://jiaya.me/home)), Shenzhen, China.
 - Sep 2011–Jul 2017. Ph.D. in Computer Application Technology (supervised by Prof. [Zhiyong Feng](https://cic.tju.edu.cn/faculty/zyfeng/index.html)), Tianjin University, Tianjin, China.
 - Sep 2007–Jun 2011. B.S. in Computer Science, Tiangong University, Tianjin, China.
