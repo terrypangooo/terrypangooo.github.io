@@ -23,6 +23,7 @@ google_scholar_id: "NAM2GUAAAAJ"
 
 minimal_mistakes_skin: "air"
 searc: true
-
-description: <img src="peng.jpg"  alt="photo" height="250" align="center"/>
+avatar: "/peng.jpg" 
+bio_image: "/peng.jpg"
+site_logo: "/peng.jpg"
 
