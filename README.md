@@ -44,9 +44,13 @@ header:
 
 ---
 ## BIOGRAPHY
+
+<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 2rem 0;">
 **Weilong Peng** is currently an Assistant Professor and Master's Supervisor at the School of Computer Science and Network Engineering, Guangzhou University. He graduated from Tianjin University in July 2017. Prior to joining academia in July 2020, he served as a Senior Researcher at Tencent Youtu Lab.
 
 His research interests primarily focus on Computer Vision/Graphics(计算机视觉/图形学), Adversarial 3D Perception (3D 对抗感知) . During his tenure at Tencent, he developed the company’s first enterprise-level video human pose tracking solution, which has been widely deployed in core products such as Tencent Cloud and WeChat. Prof. Peng has published over ten papers in top-tier international conferences and journals, including CVPR, ICCV, ECCV, ICLR, MM, AAAI, ICDM, Pattern Recognition, TMM, TCE, ESWA, etc. He also serves as a reviewer for prestigious conferences and journals such as ICCV, ACM MM, Neurocomputing, IJCV, TIP, etc. 
+</div>
+
 
 ## EXPERIENCE
 - Jul 2020–Now. Assistant Professor, School of Computer Science and Network Engineering, Guangzhou University, Guangzhou, China.
