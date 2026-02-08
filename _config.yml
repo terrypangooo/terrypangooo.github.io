@@ -23,7 +23,15 @@ google_scholar_id: "NAM2GUAAAAJ"
 
 minimal_mistakes_skin: "air"
 searc: true
-avatar: "/peng.jpg" 
-bio_image: "/peng.jpg"
-site_logo: "/peng.jpg"
+author:
+  name: "Weilong Peng"
+  avatar: "/peng.jpg"
+  location: "广东|广州"
 
+# 首页头像
+home:
+  image:
+    path: "peng.jpg"
+    class: "circle"
+    width: 200
+    height: 200
