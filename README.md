@@ -1,19 +1,10 @@
----
-layout: home
-title: "你的姓名 - 学术主页"
-permalink: /
-author_profile: true
-classes: wide
-header:
-  overlay_image: /xxx.jpg
-  overlay_filter: 0.3
-  actions:
-    - label: "关于我"
-      url: "/about/"
-    - label: "查看发表"
-      url: "/publications/"
-  caption: "博士生 | 机器学习研究者"
----
+<style>
+/* 这里可以用CSS */
+html { font-size: 18px; }
+body { font-size: 1.1em; line-height: 1.7; }
+footer { font-size: 1em; }
+</style>
+
 
 <div style="text-align: center; margin: 3rem 0;">
 
