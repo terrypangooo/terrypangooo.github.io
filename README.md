@@ -38,7 +38,7 @@ footer { font-size: 1em; }
 
 **Weilong Peng** is currently an Assistant Professor and Master's Supervisor at the School of Computer Science and Network Engineering, Guangzhou University. He graduated from Tianjin University in July 2017. Prior to joining academia in July 2020, he served as a Senior Researcher at Tencent Youtu Lab.
 
-His research interests primarily focus on Computer Vision/Graphics(计算机视觉/图形学), Adversarial 3D Perception (3D 对抗感知) . During his tenure at Tencent, he developed the company’s first enterprise-level video human pose tracking solution, which has been widely deployed in core products such as Tencent Cloud and WeChat. Prof. Peng has published over ten papers in top-tier international conferences and journals, including CVPR, ICCV, ECCV, ICLR, MM, AAAI, ICDM, Pattern Recognition, TMM, TCE, ESWA, etc. He also serves as a reviewer for prestigious conferences and journals such as ICCV, ACM MM, Neurocomputing, IJCV, TIP, etc. 
+His research interests primarily focus on Computer Vision/Graphics(计算机视觉/图形学), Adversarial 3D Perception (3D 对抗感知) . During his tenure at Tencent, he developed the company’s first enterprise-level video human pose tracking solution, which has been widely deployed in core products such as Tencent Cloud and WeChat. Prof. Peng has published over ten papers in top-tier international conferences and journals, including CVPR, ICCV, ECCV, MM, AAAI, ICDM, ICME, Pattern Recognition, TMM, TCE, ESWA, etc. He also serves as a reviewer for prestigious conferences and journals such as ICCV, ACM MM, Neurocomputing, IJCV, TIP, etc. 
 
 ## EXPERIENCE
 
@@ -54,9 +54,9 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
      
 <li> <strong> Weilong Peng</strong>,  Xi Chen, Meng Xing, Keke Tang, Meie Fang. Text2Try3D: Text-Guided 3D Garment Generation on Parametric Human Models[C]. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026 (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li> Jinqing Zheng,Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color="#FF0000">中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li> Jinqing Zheng, Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng*(Corresponding author)</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild [J]. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color="#FF0000">中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li> Keke Tang, Ziyong Du, Xiaofei Wang, <strong>Weilong Peng</strong>, Peican Zhu, Zhihong Tian. Optimal Transport-Induced Samples Against ut-of-Distribution Overconfidence[C]. International Conference on Learning Representations (ICLR), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li> Keke Tang, Yuze Gao, Weilong Peng, Xiaofei Wang, Meie Fang, Peican Zhu. Transferable and undefendable point cloud attacks via medial axis transform [J]. Computer Aided Geometric Desig. Computer Aided Geometric Design (CAGD), 2026 (<font color="#FF0000">CCF B</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li>Zechu Zhang, Mengda Xie, Jinyu Wen, <strong>Weilong Peng</strong>, Meie Fang, Ligang Liu. Velocity Field-based Tooth Alignment Network with Interactive Guidance via Dental Arch Curves and Clinical Text Prompts[C]. Computational Visual Media (CVM), 2026 (CCF C, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
@@ -64,13 +64,13 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
   
 <li>Keke Tang, Tianyu Hao, Xiaofei Wang, <strong>Weilong Peng*(Corresponding author)</strong>, Denghui Zhang, Peican Zhu, Zhihong Tian. Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li><strong>Weilong Peng</strong>, Quanwei Deng, Mingjie Li, Yangtao Wang, Lisheng Fan, Yan Wang, Zhaoyang Yu, and Meie Fang. Adaptive Multi-Lens Phase Modulation for Scale-Aware Privacy-Preserving Human Pose Recognition.IET Software, 2025 (<font color="#FF0000">CCF B</font>). <a href="#"><font color="#267cb9">pdf</font></a>.</li>
+<li><strong>Weilong Peng</strong>, Quanwei Deng, Mingjie Li, Yangtao Wang, Lisheng Fan, Yan Wang, Zhaoyang Yu, and Meie Fang. Adaptive Multi-Lens Phase Modulation for Scale-Aware Privacy-Preserving Human Pose Recognition [J].IET Software, 2025 (<font color="#FF0000">CCF B</font>). <a href="#"><font color="#267cb9">pdf</font></a>.</li>
   
-<li><strong>Weilong Peng</strong>, Qingfeng Chen, Keke Tang, Zhaoyang Yu, Yangtao Wang, Yanzhao Xie, Meie Fang. LactFormer: Language-aware Context Learning with Multi-cue Transformers for HOI Detection. IEEE Transaction on Consumer Electronics, 2025 (Q1). <a href="https://doi.org/10.1109/TCE.2025.3571778"><font color="#267cb9">pdf</font></a>.</li>
+<li><strong>Weilong Peng</strong>, Qingfeng Chen, Keke Tang, Zhaoyang Yu, Yangtao Wang, Yanzhao Xie, Meie Fang. LactFormer: Language-aware Context Learning with Multi-cue Transformers for HOI Detection [J]. IEEE Transaction on Consumer Electronics, 2025 (Q1). <a href="https://doi.org/10.1109/TCE.2025.3571778"><font color="#267cb9">pdf</font></a>.</li>
   
 <li>Keke Tang, Chao Hou, <strong>Weilong Peng*(Corresponding author)</strong>, Xiang Fang, Zhize Wu, Yongwei Nie, Wenping Wang, Zhihong Tian. Simplification Is All You Need against Out-of-Distribution Overconfidence[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025 (<font color="#FF0000">CCF A</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li><strong>Weilong Peng</strong>, Keke Tang, Weixuan Tang, Yong Su, Meie Fang, Ping Li. MeshPAD: Payload-aware Mesh Distortion for 3D Steganography Based on Geometric Deep Learning[J]. Expert Systems with Applications, 2025.(<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+<li><strong>Weilong Peng</strong>, Keke Tang, Weixuan Tang, Yong Su, Meie Fang, Ping Li. MeshPAD: Payload-aware Mesh Distortion for 3D Steganography Based on Geometric Deep Learning [J]. Expert Systems with Applications, 2025.(<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
 <li>Zechu Zhang, <strong>Weilong Peng#(Joint first author)）</strong>, Jinyu Wen, Keke Tang, Meie Fang, David Dagan Feng, Ping Li. Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes from CBCT Images[J]. IEEE Transactions on Multimedia (TMM), 2025 (<font color="#FF0000"> 中科院一区</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
@@ -89,7 +89,7 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
 <li> <strong>Weilong Peng</strong>, Qingfeng Chen, Keke Tang, Zhihao Yang, Meng Xing, Meie Fang. MIT: Multi-cue Injected Transformer for Two-Stage HOI Detection[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2024. (CCF C). <a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
 
-<li>Hanwei Yang, <strong>Weilong Peng*(Corresponding author)</strong>, Jiamin Yao, and Xijun Ye. Effective adversarial transfer learning for underwater image enhancement with hybrid losses[J]. Signal, Image and Video Processing, 2024.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Hanwei Yang, <strong>Weilong Peng*(Corresponding author)</strong>, Jiamin Yao, and Xijun Ye. Effective adversarial transfer learning for underwater image enhancement with hybrid losses [J]. Signal, Image and Video Processing, 2024.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Keke Tang, Lujie Huang, <strong>Weilong Peng*(Corresponding author)</strong>, Daizong Liu, Xiaofei Wang, Yang Ma, Ligang Liu, and Zhihong Tian. FLAT: Flux-aware Imperceptible Adversarial Attacks on 3D Point Clouds[C]. European Conference on Computer Vision (ECCV), 2024 (<font color="#FF0000">CCF B</font>).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
