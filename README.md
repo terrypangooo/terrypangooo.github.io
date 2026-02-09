@@ -54,11 +54,11 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
      
 <li> <strong> Weilong Peng</strong>,  Xi Chen, Meng Xing, Keke Tang, Meie Fang. Text2Try3D: Text-Guided 3D Garment Generation on Parametric Human Models[C]. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026 (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li> Jinqing Zheng,Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color=中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li> Jinqing Zheng,Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color="#FF0000">中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li> Keke Tang, Ziyong Du, Xiaofei Wang, <strong>Weilong Peng</strong>, Peican Zhu, Zhihong Tian. Optimal Transport-Induced Samples Against ut-of-Distribution Overconfidence[C]. International Conference on Learning Representations (ICLR), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></li>
 
-<li>Zechu Zhang, Mengda Xie, Jinyu Wen, >Weilong Peng>, Meie Fang, Ligang Liu. Velocity Field-based Tooth Alignment Network with Interactive Guidance via Dental Arch Curves and Clinical Text Prompts[C]. Computational Visual Media (CVM), 2026 (CCF C, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li>Zechu Zhang, Mengda Xie, Jinyu Wen, <strong>Weilong Peng</strong>, Meie Fang, Ligang Liu. Velocity Field-based Tooth Alignment Network with Interactive Guidance via Dental Arch Curves and Clinical Text Prompts[C]. Computational Visual Media (CVM), 2026 (CCF C, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li>Yangtao Wang, Xingwei Deng, Yanzhao Xie, <strong>Weilong Peng</strong>, Siyuan Chen, Xiaocui Li, Maobin Tang, Meie Fang. End-to-End Knowledge Distillation for Unsupervised Domain Adaptation with Large Vision-language Models [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
   
