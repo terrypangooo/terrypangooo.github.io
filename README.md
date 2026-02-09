@@ -54,7 +54,7 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
      
 <li> <strong> Weilong Peng</strong>,  Xi Chen, Meng Xing, Keke Tang, Meie Fang. Text2Try3D: Text-Guided 3D Garment Generation on Parametric Human Models[C]. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026 (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<<li> Jinqing Zheng, Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild [J]. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color="#FF0000">中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li> Jinqing Zheng, Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild [J]. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color="#FF0000">中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li> Keke Tang, Yuze Gao, <strong>Weilong Peng*(Corresponding author)</strong>, Xiaofei Wang, Meie Fang, Peican Zhu. Transferable and undefendable point cloud attacks via medial axis transform [J]. Computer Aided Geometric Desig. Computer Aided Geometric Design (CAGD), 2026 (<font color="#FF0000">CCF B</font>). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
