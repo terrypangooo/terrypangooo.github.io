@@ -54,7 +54,11 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
      
 <li> <strong> Weilong Peng</strong>,  Xi Chen, Meng Xing, Keke Tang, Meie Fang. Text2Try3D: Text-Guided 3D Garment Generation on Parametric Human Models[C]. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026 (<font color="#FF0000">CCF B</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li>Keke Tang, Ziyong Du, Xiaofei Wang, <strong>Weilong Peng</strong>, Peican Zhu, Zhihong Tian. Optimal Transport-Induced Samples Against ut-of-Distribution Overconfidence[C]. International Conference on Learning Representations (ICLR), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+<li> Jinqing Zheng,Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color=中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
+
+<li> Keke Tang, Ziyong Du, Xiaofei Wang, <strong>Weilong Peng</strong>, Peican Zhu, Zhihong Tian. Optimal Transport-Induced Samples Against ut-of-Distribution Overconfidence[C]. International Conference on Learning Representations (ICLR), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></li>
+
+<li>Zechu Zhang, Mengda Xie, Jinyu Wen, >Weilong Peng>, Meie Fang, Ligang Liu. Velocity Field-based Tooth Alignment Network with Interactive Guidance via Dental Arch Curves and Clinical Text Prompts[C]. Computational Visual Media (CVM), 2026 (CCF C, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li>Yangtao Wang, Xingwei Deng, Yanzhao Xie, <strong>Weilong Peng</strong>, Siyuan Chen, Xiaocui Li, Maobin Tang, Meie Fang. End-to-End Knowledge Distillation for Unsupervised Domain Adaptation with Large Vision-language Models [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
   
@@ -134,7 +138,7 @@ Man, and Cybernetics (SMC), 2023 (CCF C).<a href="#"><strong><font color="#267cb
 
 <li>杨志豪, <strong>彭伟龙*(通讯)</strong>, 唐可可, 汪洋涛, 谭恒良, 方美娥. 基于紧凑型线性混合半侧蒙皮权重的神经辐射场人体表示方法[J]计算机辅助设计与图形学学报, 2024 (<font color="#FF0000">CCF A</font> 中文).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>张泽初，<strong>彭伟龙*(通讯)</strong>，唐可可，余朝阳，Asad Khan，方美娥. 面向CBCT图像的金字塔细分同胺变形牙齿网格重建方法[J]. 浙江大学学报(理学版), 2023.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>张泽初，<strong>彭伟龙*(通讯)</strong>，唐可可，余朝阳，Asad Khan，方美娥. 面向CBCT图像的金字塔细分同胚变形牙齿网格重建方法[J]. 浙江大学学报(理学版), 2023.<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>施亚文, 唐可可*, <strong>彭伟龙</strong>, 吴坚鹏, 顾钊铨, 方美娥. 基于对抗点的局部点云神经网络特征匹配攻击[J]. 计算机辅助设计与图形学学报, 2022 (<font color="#FF0000">CCF A</font> 中文).<a href="#"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
