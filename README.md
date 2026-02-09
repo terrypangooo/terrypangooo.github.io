@@ -56,7 +56,7 @@ His research interests primarily focus on Computer Vision/Graphics(计算机视�
 
 <li> Jinqing Zheng,Zhiyong Feng,Meng Xing, Yong Su, <strong>Weilong Peng</strong>, Yiming Zhang. DFGOVD: A New Dataset and Benchmark for Drone Fine-Grained Oriented Vehicle Detection in the Wild. IEEE Transactions on Geoscience and Remote Sensing, 2026 (<font color="#FF0000">中科院一区</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
-<li> Keke Tang, Ziyong Du, Xiaofei Wang, <strong>Weilong Peng</strong>, Peican Zhu, Zhihong Tian. Optimal Transport-Induced Samples Against ut-of-Distribution Overconfidence[C]. International Conference on Learning Representations (ICLR), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></li>
+<li> Keke Tang, Ziyong Du, Xiaofei Wang, <strong>Weilong Peng</strong>, Peican Zhu, Zhihong Tian. Optimal Transport-Induced Samples Against ut-of-Distribution Overconfidence[C]. International Conference on Learning Representations (ICLR), 2026 (<font color="#FF0000">CCF A</font>, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
 <li>Zechu Zhang, Mengda Xie, Jinyu Wen, <strong>Weilong Peng</strong>, Meie Fang, Ligang Liu. Velocity Field-based Tooth Alignment Network with Interactive Guidance via Dental Arch Curves and Clinical Text Prompts[C]. Computational Visual Media (CVM), 2026 (CCF C, Accepted). <a href="#"><font color="#267cb9">pdf</font></a></li>
 
